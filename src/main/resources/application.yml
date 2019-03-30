@@ -1,0 +1,5 @@
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb://39.96.172.135:27017/testDb
